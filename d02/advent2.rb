@@ -1,4 +1,3 @@
-[]
 file = File.open('input2.txt')
 data =  file.read.split("\n")
 total = 0
